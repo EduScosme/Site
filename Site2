@@ -14,7 +14,66 @@
 
 </header>
 <section>
-
+    <div style="display: flex; justify-content: space-evenly;">
+        <div style="display:inline-block;" >
+            <h3>
+                Osceia
+            </h3>
+            <img src="assets/img/Comida1.svg">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/basilica-do-senhor-do-bonfim">Largo do Bonfim, s/n - Bonfim, Salvador - BA, <br/>40415-475 </a> 	
+            </p>
+        
+        </div>
+        <div style="display:inline-block" >
+            <h3>
+                Ação da cidadania
+            </h3>
+            <img src="assets/img/comida 2.webp">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/pelourinho">Largo do Pelourinho, Pelourinho, Salvador - BA, <br/> 40026-280 </a>
+            </p>
+        </div>
+        <div style="display:inline-block" >
+            <h3>
+                Banco de alimentos
+            </h3>
+            <img src="assets/img/comida3.png">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/fundacao-casa-de-jorge-amado">Largo do Pelourinho, 15 - Pelourinho, Salvador - BA, <br/> 40026-280 </a>
+            </p>
+        </div>
+    </div>
+    <div  style="display: flex; justify-content: space-evenly;">
+        <div style="display:inline-block;" >
+            <h3>
+                Essor
+            </h3>
+            <img src="assets/img/verde1.png">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/igreja-e-convento-de-sao-francisco">Largo do Cruzeiro de São Francisco, S/N – Pelourinho, Salvador – BA </a>
+            </p>
+        </div>
+        <div style="display:inline-block" >
+            <h3>
+                Ong verde
+            </h3>
+            <img src="assets/img/verde2.jpeg">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/elevador-lacerda">Praça Tomé de Souza, S/N - Centro, Salvador - BA, <br/> 40020-000 </a>
+            </p>
+        </div>
+        <div style="display:inline-block" >
+            <h3>
+                Growing gardens
+            </h3>
+            <img src="assets/img/verde3.png">
+            <p style="font-size: 20px;">
+                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/mercado-modelo">Pr. Visc. de Cayru, s/n - Comercio, Salvador - BA, <br/> 40015-170 </a>
+            </p>
+            
+        </div>
+    </div>
 
 
     <div style="display: inline">
@@ -25,7 +84,7 @@
 </section>
 
 <footer>
-    <p> Equipe &copy 2024</p>
+    <p>  &copy 2024</p>
 
 
 </footer>
