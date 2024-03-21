@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="pag2.css">
     <title> Fome e Agricultura Sustentável</title>
 </head>
 
@@ -11,17 +11,27 @@
 <header>
     <h1 style="color: white;"> Fome e agricultura sustentável</h1>
 
-
 </header>
 <section>
+    <h2 style="margin-top: 100px;">Um pouco sobre ONGs</h2>
+    <p style="margin-bottom: 100px;">Organização Não Governamental (ONG) é uma instituição privada sem fins lucrativos que tem como objetivo atuar em áreas onde não chega o poder público.
+        A ONGs promovem suas atividades através do voluntariado e são encontradas em setores como as políticas públicas, defesa do meio ambiente, saúde, educação, etc.
+        A expressão Organização Não Governamental foi empregada pela primeira vez no ano de 1950. A Organização das Nações Unidas (ONU) a utilizou para definir as organizações civis que não tinham nenhum vínculo com o governo.
+        As ONG's desenvolvem trabalhos na área da educação, saúde, assistência social e direitos humanos. Além disso, podem pressionar o poder público para obter melhorias na prestação dos serviços oferecidos à sociedade, tanto na esfera local, estadual, nacional como na esfera internacional.
+        Fazem parte do Terceiro Setor da sociedade, ou seja, enquanto o Primeiro Setor é o governo e o Segundo Setor são as empresas privadas, o Terceiro Setor são as instituições privadas. Sem fins lucrativos, esse setor tem a finalidade de gerar serviços de ordem pública.
+        As ONGs buscam apoio financeiro através de várias fontes, entre elas: pessoas físicas, empresas privadas, fundações e entidades governamentais.
+        Seu principal objetivo é fomentar ações nos mais diversos campos do conhecimento para os setores mais vulneráveis da sociedade.</p>
+
+    <h2>ONGs para doação de comida</h2>
     <div style="display: flex; justify-content: space-evenly;">
+        
         <div style="display:inline-block;" >
             <h3>
                 Osceia
             </h3>
             <img src="assets/img/Comida1.svg">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/basilica-do-senhor-do-bonfim">Largo do Bonfim, s/n - Bonfim, Salvador - BA, <br/>40415-475 </a> 	
+                <a href="https://osceia.org.br/canais-de-doacao-da-osceia">Doe Aqui </a> 	
             </p>
         
         </div>
@@ -31,36 +41,38 @@
             </h3>
             <img src="assets/img/comida 2.webp">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/pelourinho">Largo do Pelourinho, Pelourinho, Salvador - BA, <br/> 40026-280 </a>
+                <a href="https://paybox.doare.org/paybox?sourceURL=https://www.acaodacidadania.org.br/&lang=br&amount=&currency=BRL&orgId=f5248bb2-7d0f-11ea-9b93-0667b40d75bc&campaignId=bb5c06a1-e52a-450b-812f-5e6f07c8fe85&subscribe=&subscriptionAmount=20&showSubscription=1&newsletter=1&privacyURL=&gtmId=GTM-W7ZZHKN&facebookId=2057594941195732&analyticsId=G-XXZ0K5M795&trackId=AW-856340495&referer=https://www.acaodacidadania.org.br/&utm_source=ACAO&_gl=1*skh9cx*_gcl_aw*R0NMLjE3MTA5NjI1OTkuQ2p3S0NBandrdXF2QmhBUUVpd0E2NVh4UU1xSEFmbGZhYUdwTmhkVUJFNnhhRnF0NVg2elFnc2pOSmZrSzRmZW8tSVZtQVZOUjBXV2lSb0NhaFVRQXZEX0J3RQ..*_gcl_au*MTk2OTQwNzk3OC4xNzEwOTYyNTk5*_ga*Njc4NjY0MjE0LjE3MTA5NjI2MDA.*_ga_XXZ0K5M795*MTcxMDk2MjU5OS4xLjAuMTcxMDk2MjU5OS42MC4wLjA.">Doe Aqui </a>
             </p>
         </div>
         <div style="display:inline-block" >
             <h3>
                 Banco de alimentos
             </h3>
-            <img src="assets/img/comida3.png">
+            <img src="assets/img/banco2.png">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/fundacao-casa-de-jorge-amado">Largo do Pelourinho, 15 - Pelourinho, Salvador - BA, <br/> 40026-280 </a>
+                <a href="https://bancodealimentos.colabore.org/doe-banco-de-alimentos-pf/people/new?utm_source=site&utm_medium=botao&utm_campaign=pf">Doe Aqui </a>
             </p>
         </div>
     </div>
-    <div  style="display: flex; justify-content: space-evenly;">
+    <h2>ONGs para investir em agricultura</h2>
+    
+    <div  style="display: flex; justify-content: space-evenly;margin-bottom: 50px;">
         <div style="display:inline-block;" >
             <h3>
                 Essor
             </h3>
             <img src="assets/img/verde1.png">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/igreja-e-convento-de-sao-francisco">Largo do Cruzeiro de São Francisco, S/N – Pelourinho, Salvador – BA </a>
+                <a href="https://www.essor-ong.org/pt/faca-uma-doacao/">Doe Aqui </a>
             </p>
         </div>
         <div style="display:inline-block" >
             <h3>
-                Ong verde
+                ONG verde
             </h3>
             <img src="assets/img/verde2.jpeg">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/elevador-lacerda">Praça Tomé de Souza, S/N - Centro, Salvador - BA, <br/> 40020-000 </a>
+                <a href="https://www.ongverde.org/formulario-de-doacao.html">Doe Aqui </a>
             </p>
         </div>
         <div style="display:inline-block" >
@@ -69,7 +81,7 @@
             </h3>
             <img src="assets/img/verde3.png">
             <p style="font-size: 20px;">
-                <a href="https://www.buser.com.br/destinos/pontos-turisticos/ba/salvador/mercado-modelo">Pr. Visc. de Cayru, s/n - Comercio, Salvador - BA, <br/> 40015-170 </a>
+                <a href="https://growing-gardens.kindful.com/?campaign=1238355?campaign=1238355">Doe Aqui</a>
             </p>
             
         </div>
